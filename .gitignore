@@ -9,3 +9,6 @@
 
 # RStudio files
 .Rproj.user/
+
+# Raw input data files
+/UCI HAR Dataset
