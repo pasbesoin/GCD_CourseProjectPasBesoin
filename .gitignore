@@ -14,6 +14,8 @@
 # Raw input data files
 /UCI HAR Dataset
 
+# Output file
+/gcd_course_project_tidy_means.txt
 
 # vi swap files
 .*.swo
