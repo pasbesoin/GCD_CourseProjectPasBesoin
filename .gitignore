@@ -6,9 +6,15 @@
 
 # R data files from past sessions
 .Rdata
+*.Rout
 
 # RStudio files
 .Rproj.user/
 
 # Raw input data files
 /UCI HAR Dataset
+
+
+# vi swap files
+.*.swo
+.*.swp
